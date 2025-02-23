@@ -1,3 +1,4 @@
+import Advert from "@/components/advert";
 import Navbar from "@/components/navbar";
 
 export default function Home() {
@@ -22,6 +23,7 @@ export default function Home() {
         </div>
       </section>
       <Navbar />
+      <Advert />
     </>
   );
 }
