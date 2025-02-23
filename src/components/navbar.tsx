@@ -53,9 +53,9 @@ const Navbar = () => {
             <g
               fill="none"
               stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="1.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="1.5"
             >
               <circle cx="9.549" cy="19.049" r="1.701" />
               <circle cx="16.96" cy="19.049" r="1.701" />
